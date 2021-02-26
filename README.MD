@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img width="500" style="border-radius: 10px" height="auto" alt="movi.it" src="public/icons/screenshot-home.png">
+  <img width="100%" style="border-radius: 10px" height="auto" alt="movi.it" src="public/icons/screenshot-home.png">
 </p>
 
 <h3 align="center"> 
