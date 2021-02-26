@@ -12,11 +12,7 @@
 </p>
 
 <p align="center">
-  <img width="500" style="border-radius: 10px" height="auto" alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
-
-<p align="center">
-  <img alt="movi.it" src="screenshot-home.png" width="100%">
+  <img width="500" style="border-radius: 10px" height="auto" alt="movi.it" src="screenshot-home.png" width="100%">
 </p>
 
 <h3 align="center"> 
